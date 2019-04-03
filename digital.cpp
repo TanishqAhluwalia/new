@@ -8,7 +8,10 @@ using namespace std;
 
 int main()
 {
-cout<<"hello world";
+int date;
+cout<<"Enter your date of birt";
+cin>>date;
+while() 
 
 return 0;
 }
